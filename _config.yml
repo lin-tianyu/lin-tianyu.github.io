@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyu Lin"
-  avatar           : "images/bio-no-tie.jpg"
+  name             : "lin-tianyu"
+  avatar           : "images/bio-tied.jpg"
   bio              : "BME, Sun Yat-sen University"
   location         : "Shenzhen, China"
   employer         :
