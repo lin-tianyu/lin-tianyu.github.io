@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Lin"
-description              : "SYSU"
+description              : "Undergrad @SYSU"
 repository               : "lin-tianyu/lin-tianyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Lin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Sun Yat-sen University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
