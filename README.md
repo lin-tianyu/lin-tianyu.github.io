@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https//lin-tianyu.github.io">Tianyu Lin's Homepage</a>
+<a href="https://lin-tianyu.github.io/">Tianyu Lin's Homepage</a>
 </h1>
 
 <div align="center">
