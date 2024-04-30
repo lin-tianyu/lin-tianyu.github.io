@@ -11,7 +11,7 @@
 [![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md)
 </div>
 
-<p align="center">My personal homepage, using the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>.</p>
+<p align="center">My personal homepage, powered by <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>.</p>
 
 <!--
 <p align="center">
