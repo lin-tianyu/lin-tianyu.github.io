@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-My research interest includes medical image analysis and computer vision. <!--I have published more than 100 papers at the top international AI conferences with total--> <a href='https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+My research interest <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png" align="AbsMiddle"></a> includes medical image analysis and computer vision. <!--I have published more than 100 papers at the top international AI conferences with total--> <a href='https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 <!--<a href='https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
@@ -58,4 +58,4 @@ My research interest includes medical image analysis and computer vision. <!--I 
 -->
 
 # 💻 Internships
-- 2023.07 - 2023.09, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png" align="bottom"></a>, China.
+- 2023.07 - 2023.09, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png" align="AbsMiddle"></a>, Shenzhen, China.
