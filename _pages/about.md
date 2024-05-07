@@ -56,4 +56,4 @@ My research interest includes medical image analysis and computer vision. <!--I 
 -->
 
 # 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+- 2023.07 - 2023.09, <img class="inline" src="../images/NMed.png" alt="行内图片"> [NMed](https://www.nmed.org.cn/), China.
