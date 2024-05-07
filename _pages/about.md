@@ -20,7 +20,6 @@ redirect_from:
 <style>
     img.inline {
         display: inline-block; 
-        height: 16px; 
     }
 </style>
 
@@ -64,4 +63,4 @@ My research interest includes medical image analysis and computer vision. <!--I 
 -->
 
 # 💻 Internships
-- 2023.07 - 2023.09, ![NMED](../images/NMed.png){.inline}<img class="inline" src="../images/NMed.png" height=16> [NMED](https://www.nmed.org.cn/), China.
+- 2023.07 - 2023.09, <img class="inline" src="../images/NMed.png" height=16> [NMED](https://www.nmed.org.cn/), China.
