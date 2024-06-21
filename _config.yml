@@ -24,7 +24,7 @@ author:
   name             : "Tianyu Lin"
   avatar           : "images/bio-tied.jpg"
   bio              : "BME, Johns Hopkins University"
-  location         : "Shenzhen, China"
+  location         : # "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eHJYs-IAAAAJ"
