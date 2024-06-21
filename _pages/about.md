@@ -51,8 +51,8 @@ My research interest includes medical image analysis and computer vision. <!--I 
 - *2020-2021*, Second-class scholarship for outstanding students, Sun Yat-sen University.
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Bachelor of Biomedical Engineering, Sun Yat-sen University.
-- *2024.09 - 2026.06 (Expected)*, Master of Science of Biomedical Engineering, Johns Hopkins University.
+- *2020.09-2024.06*, Bachelor of Biomedical Engineering, Sun Yat-sen University.
+- *2024.09-2026.06 (Expected)*, Master of Science of Biomedical Engineering, Johns Hopkins University.
 
 # 💻 Internships
-- 2023.07 - 2023.09, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
+- 2023.07-2023.09, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
