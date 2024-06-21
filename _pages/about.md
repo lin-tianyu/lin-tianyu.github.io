@@ -27,7 +27,7 @@ My research interest includes medical image analysis and computer vision. <!--I 
 
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2024.06*: One paper has been accepted by MICCAI 2024 (1st author)! 🥳🎉 My first MICCAI paper!
 
 # 📝 Publications 
 <!--
@@ -50,6 +50,7 @@ My research interest includes medical image analysis and computer vision. <!--I 
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Bachelor of Biomedical Engineering, Sun Yat-sen University.
+- *Expected 2024.9 - 2026.6*, Master of Science of Biomedical Engineering, Johns Hopkins University.
 
 <!--
 # 💬 Invited Talks
