@@ -27,7 +27,7 @@ My research interest includes medical image analysis and computer vision. <!--I 
 
 
 # 🔥 News
-- *2024.06*: 🥳🎉 One paper has been accepted by MICCAI 2024 (1st author)! This is my first MICCAI paper!
+- *2024.06*: 🥳🎉 One paper has been accepted by **MICCAI 2024** (1st author)! This is my first MICCAI paper!
 
 # 📝 Publications 
 <!--
@@ -41,18 +41,19 @@ My research interest includes medical image analysis and computer vision. <!--I 
 </div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+- **Lin, T.**, Chen, Z., Yan, Z., Zheng, F., & Yu, W. (2024). Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process. In International Conference on Medical Image Computing and Computer-Assisted Intervention.
 
 # 📖 Educations
-- *2020.09-2024.06*, Bachelor of Biomedical Engineering, Sun Yat-sen University.
 - *2024.09-2026.06 (Expected)*, Master of Science of Biomedical Engineering, Johns Hopkins University.
+- *2020.09-2024.06*, Bachelor of Biomedical Engineering, Sun Yat-sen University.
 
 # 🎖 Honors and Awards
-- *2024*, Outstanding Undergraduate Thesis Award, School of Biomedical Engineering, Sun Yat-sen University.
-- *2022-2023*, Third-class scholarship for outstanding students, Sun Yat-sen University.
-- *2021-2022*, Second-class scholarship for outstanding students, Sun Yat-sen University.
-- *2022*, 3rd Prize, The Mathematical Modeling Competition of Guangdong-Hong Kong-Marco Greater Bay Area.
-- *2022*, 3rd Prize, National Biomedical Engineering Innovation Design Competition for College Students.
-- *2020-2021*, Second-class scholarship for outstanding students, Sun Yat-sen University.
+- *2024.06*, Outstanding Undergraduate Thesis Award, School of Biomedical Engineering, Sun Yat-sen University.
+- *2023.11*, Third-class scholarship for outstanding students, Sun Yat-sen University.
+- *2022.12*, Second-class scholarship for outstanding students, Sun Yat-sen University.
+- *2022.12*, 3rd Prize, The Mathematical Modeling Competition of Guangdong-Hong Kong-Marco Greater Bay Area.
+- *2022.08*, 3rd Prize, National Biomedical Engineering Innovation Design Competition for College Students.
+- *2021.11*, Second-class scholarship for outstanding students, Sun Yat-sen University.
 
 # 💻 Internships
 - 2023.07-2023.09, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
