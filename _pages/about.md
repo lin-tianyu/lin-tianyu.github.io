@@ -35,7 +35,7 @@ My research interest includes medical image analysis and computer vision. <!--I 
 <div class='paper-box-text' markdown="1">
 [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/abs/2406.18361)
   
-**Tianyu Lin**, Zhiguang Chen, Zhonghao Yan, Fudan Zheng, Weijiang Yu
+**Tianyu Lin**, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
