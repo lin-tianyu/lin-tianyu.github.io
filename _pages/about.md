@@ -42,7 +42,6 @@ My research interest includes medical image analysis and computer vision. <!--I 
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- **Lin, T.**, Chen, Z., Yan, Z., Zheng, F., & Yu, W. (2024). Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process. In International Conference on Medical Image Computing and Computer-Assisted Intervention. 
 - Chen, Y.\*, Han, G.\*, **Lin, T.**, & Liu, X. (2022). CAFS: An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Sensors, 22(13), 5053.
 
 # 📖 Educations
