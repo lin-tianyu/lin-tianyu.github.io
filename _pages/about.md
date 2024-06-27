@@ -31,17 +31,18 @@ My research interest includes medical image analysis and computer vision. <!--I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/SDSeg-framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/abs/2406.18361)
+  
 **Tianyu Lin**, Zhiguang Chen, Zhonghao Yan, Fudan Zheng, Weijiang Yu
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 </div>
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- **Lin, T.**, Chen, Z., Yan, Z., Zheng, F., & Yu, W. (2024). Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process. In International Conference on Medical Image Computing and Computer-Assisted Intervention. [![Static Badge](https://img.shields.io/badge/arxiv-2406.18361-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2406.18361)
+- **Lin, T.**, Chen, Z., Yan, Z., Zheng, F., & Yu, W. (2024). Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process. In International Conference on Medical Image Computing and Computer-Assisted Intervention. 
 - Chen, Y.\*, Han, G.\*, **Lin, T.**, & Liu, X. (2022). CAFS: An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Sensors, 22(13), 5053.
 
 # 📖 Educations
