@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Lin"
-description              : "Incoming MS @JHU. Focusing on computer vision and medical image analysis."
+description              : "Incoming BME MS @JHU. Focusing on computer vision and medical image analysis."
 repository               : "lin-tianyu/lin-tianyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Lin"
   avatar           : "images/bio-tied.jpg"
-  bio              : "BME, Johns Hopkins University"
+  bio              : "Johns Hopkins University"
   location         : # "Shenzhen, China"
   employer         :
   pubmed           : 
