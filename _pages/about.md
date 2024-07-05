@@ -31,7 +31,7 @@ My research interest includes medical image analysis and computer vision. <!--I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/SDSeg-framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/SDSegFramework-v2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/abs/2406.18361)
   
