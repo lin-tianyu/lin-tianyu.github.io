@@ -266,9 +266,11 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.8.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
+  arm64-darwin-23
   universal-darwin-19
   x86_64-linux
 
@@ -277,6 +279,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.19
