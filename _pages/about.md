@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree.
+I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree on June, 2024.
 
 My research interest mainly includes medical image analysis and computer vision. I am all into building reliable medical vision intelligence systems. I am also interested in foundational vision models, diffusion models, etc.
 
