@@ -29,7 +29,7 @@ My research interest mainly includes medical image analysis and computer vision.
 If you are interested in working with me, please feel free to email me at [tianyulin67@gmail.com](mailto:tianyulin67@gmail.com) :)
 
 <!-- Google Scholar Citation -->
-<!-- <a href='https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+<a href='https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
