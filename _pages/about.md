@@ -22,9 +22,9 @@ redirect_from:
 
 
 
-I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree on June, 2024.
+I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
 
-My research interest mainly includes medical image analysis and computer vision. I am all into building reliable medical vision intelligence systems. I am also interested in foundational vision models, diffusion models, etc.
+My research interest mainly includes medical image analysis and computer vision. I am all into building reliable medical vision intelligence systems. I am also interested in foundational vision models, diffusion models, vision language models, etc.
 
 If you are interested in working with me, please feel free to email me at [tianyulin67@gmail.com](mailto:tianyulin67@gmail.com) :)
 
@@ -53,8 +53,8 @@ If you are interested in working with me, please feel free to email me at [tiany
 - Chen, Y.\*, Han, G.\*, **Lin, T.**, & Liu, X. (2022). CAFS: An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Sensors, 22(13), 5053.
 
 # 📖 Educations
-- *2024.09-2026.06 (Expected)*, Master of Science in Biomedical Engineering, Johns Hopkins University.
-- *2020.09-2024.06*, Bachelor of Engineering in Biomedical Engineering, Sun Yat-sen University.
+- *2024.09-2026.06 (Expected)*, Master of Science in Engineering, Biomedical Engineering, Johns Hopkins University.
+- *2020.09-2024.06*, Bachelor of Engineering, Biomedical Engineering, Sun Yat-sen University.
 
 # 🎖 Honors and Awards
 - *2024.06*, Outstanding Undergraduate Thesis Award, School of Biomedical Engineering, Sun Yat-sen University.
