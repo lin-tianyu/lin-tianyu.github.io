@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
+Hi, I am **Tianyu Lin**👋. I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
 
 My research interest mainly includes medical image analysis and computer vision. I am all into building reliable medical vision intelligence systems. I am also interested in foundational vision models, diffusion models, vision language models, etc.
 
@@ -36,7 +36,6 @@ If you are interested in working with me, please feel free to email me at [tiany
 - *2024.06*: 🥳🎉 One paper has been accepted by **MICCAI 2024** (1st author)! This is my first MICCAI paper!
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/SDSegFramework-v2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/pdf/2406.18361)
@@ -65,4 +64,7 @@ If you are interested in working with me, please feel free to email me at [tiany
 - *2021.11*, Second-class scholarship for outstanding students, Sun Yat-sen University.
 
 # 💻 Internships
-- 2023.07-2023.09, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
+
+- *2023.07-2023.09*, Medical Imaging Center, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
+- *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
+- *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
