@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-Hi, I am **Tianyu Lin**👋. I am a incoming master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
+Hi, I am **Tianyu Lin**👋. I am a master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
 
 My research interest mainly includes medical image analysis and computer vision. I am all into building reliable medical vision intelligence systems. I am also interested in foundational vision models, diffusion models, vision language models, etc.
 
@@ -55,6 +55,12 @@ If you are interested in working with me, please feel free to email me at [tiany
 - *2024.09-2026.06 (Expected)*, Master of Science in Engineering, Biomedical Engineering, Johns Hopkins University.
 - *2020.09-2024.06*, Bachelor of Engineering, Biomedical Engineering, Sun Yat-sen University.
 
+# 💻 Internships
+
+- *2023.07-2023.09*, Medical Imaging Center, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
+- *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
+- *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
+
 # 🎖 Honors and Awards
 - *2024.06*, Outstanding Undergraduate Thesis Award, School of Biomedical Engineering, Sun Yat-sen University.
 - *2023.11*, Third-class scholarship for outstanding students, Sun Yat-sen University.
@@ -62,9 +68,3 @@ If you are interested in working with me, please feel free to email me at [tiany
 - *2022.12*, 3rd Prize, The Mathematical Modeling Competition of Guangdong-Hong Kong-Marco Greater Bay Area.
 - *2022.08*, 3rd Prize, National Biomedical Engineering Innovation Design Competition for College Students.
 - *2021.11*, Second-class scholarship for outstanding students, Sun Yat-sen University.
-
-# 💻 Internships
-
-- *2023.07-2023.09*, Medical Imaging Center, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
-- *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
-- *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
