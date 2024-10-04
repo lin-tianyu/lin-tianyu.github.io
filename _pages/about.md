@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-Hi, I am **Tianyu Lin**👋. I am a master student at [Whiting School of Engineering](https://engineering.jhu.edu/), Johns Hopkins University. I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
+Hi, I am **Tianyu Lin**👋. I am a master student at [Department of Biomedical Engineering](https://www.bme.jhu.edu/), Johns Hopkins University. I am also an research intern at [CCVL](https://ccvl.jhu.edu/) research group, supervised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I graduated from [School of Biomedical Engineering](https://bme.sysu.edu.cn/), Sun Yat-sen University with a bachelor's degree in June, 2024.
 
 My research interest mainly includes medical image analysis and computer vision. I am all into building reliable medical vision intelligence systems. I am also interested in foundational vision models, diffusion models, vision language models, etc.
 
@@ -56,7 +56,7 @@ If you are interested in working with me, please feel free to email me at [tiany
 - *2020.09-2024.06*, Bachelor of Engineering, Biomedical Engineering, Sun Yat-sen University.
 
 # 💻 Internships
-
+- *2024.09-Now*, Computational Cognition, Vision, and Learning Research Group, <a href="https://ccvl.jhu.edu/"><img src="../images/ccvl.png" width="50" ></a>, Baltimore, USA.
 - *2023.07-2023.09*, Medical Imaging Center, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
 - *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
 - *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
