@@ -38,9 +38,9 @@ If you are interested in working with me, please feel free to email me at [tiany
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/SDSegFramework-v2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://arxiv.org/pdf/2406.18361)
+[Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)
   
-[![Static Badge](https://img.shields.io/badge/_-Project_Page-white?style=social&logo=github)](https://lin-tianyu.github.io/Stable-Diffusion-Seg/) \| [![Static Badge](https://img.shields.io/badge/arxiv-2406.18361-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2406.18361) \| [![GitHub Repo stars](https://img.shields.io/github/stars/lin-tianyu/Stable-Diffusion-Seg?label=Code)](https://github.com/lin-tianyu/Stable-Diffusion-Seg) 
+[![Static Badge](https://img.shields.io/badge/MICCAI-Paper-red?style=flat&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62) \| [![Static Badge](https://img.shields.io/badge/_-Project_Page-white?style=social&logo=github)](https://lin-tianyu.github.io/Stable-Diffusion-Seg/) \| [![Static Badge](https://img.shields.io/badge/arxiv-2406.18361-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2406.18361) \| [![GitHub Repo stars](https://img.shields.io/github/stars/lin-tianyu/Stable-Diffusion-Seg?label=Code)](https://github.com/lin-tianyu/Stable-Diffusion-Seg) 
 
 **Tianyu Lin**, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
