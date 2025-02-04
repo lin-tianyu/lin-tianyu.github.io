@@ -38,9 +38,9 @@ If you are interested in working with me, please feel free to email me at [tiany
 
 # 📝 Publications 
 
-- ``ESWA`` A priority-guided contrastive network for delineating vascular layers in arterial ultrasound. Lu M<sup>&dagger;</sup>, **Lin T**<sup>&dagger;</sup>, et al. 
+- `ESWA` A priority-guided contrastive network for delineating vascular layers in arterial ultrasound. Lu M<sup>&dagger;</sup>, **Lin T**<sup>&dagger;</sup>, et al. 
 - `ISBI 2025` EMSSD: Two-Stage Model Enhancing Medical Image Segmentation Based on Stable Diffusion. Chen R, **Lin T**, et al. 
-- ``ISBI 2025`` PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation. Yan Z, Yin Z, **Lin T**, et al. 
+- `ISBI 2025` PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation. Yan Z, Yin Z, **Lin T**, et al. 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/SDSegFramework-v2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +55,7 @@ If you are interested in working with me, please feel free to email me at [tiany
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- ``Sensors`` An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Chen Y<sup>&dagger;</sup>, Han G<sup>&dagger;</sup>, **Lin T** et al.
+- `Sensors` An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Chen Y<sup>&dagger;</sup>, Han G<sup>&dagger;</sup>, **Lin T** et al.
 
 # 📖 Educations
 - *2024.09-2026.06 (Expected)*, Master of Science in Engineering, Biomedical Engineering, Johns Hopkins University.
