@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Lin"
-description              : "Focusing on computer vision and medical image analysis."
+description              : ""
 repository               : "lin-tianyu/lin-tianyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianyu Lin"
-  avatar           : "images/bio-tied.jpg"
+  avatar           : "images/anime_crop.jpg"
   bio              : "BME MS @ Johns Hopkins"
-  location         : "Baltimore, Maryland, USA"
+  location         : "Baltimore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eHJYs-IAAAAJ"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
