@@ -67,7 +67,7 @@ Wenxuan Li, Pedro R. A. S. Bassi, <b>Tianyu Lin</b>, Yu-Cheng Chou, Xinze Zhou, 
 <div class='paper-box-text' markdown="1">
 ### A priority-guided contrastive network for delineating vascular layers in arterial ultrasound<br>
 <font size="2">
-Minhua Lu*, Tianyu Lin*, Weiyuan Lin<sup>&dagger;</sup>, Zhaohui Li, Zhifan Gao
+Minhua Lu*, <b>Tianyu Lin</b>*, Weiyuan Lin<sup>&dagger;</sup>, Zhaohui Li, Zhifan Gao
 </font>
 [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://www.sciencedirect.com/science/article/pii/S0957417425003173)
 </div>
