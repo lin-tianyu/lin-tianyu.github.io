@@ -47,7 +47,7 @@ If you are interested in working with me, please feel free to email me at [tiany
 <!-- [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)  -->
 <font size="2">
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <b>Tianyu Lin</b>, Pengfei Guo, Dong Yang, Can Zhao, Qilong Wu, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou
-</font><br>
+</font>
 [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.18589)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/TextoMorph?label=Code)](https://github.com/MrGiovanni/TextoMorph) 
 </div>
 </div>
@@ -58,7 +58,7 @@ Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <b>Tianyu Lin</b>, Pengfei Guo, Dong Yan
 <!-- [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)  -->
 <font size="2">
 Wenxuan Li, Pedro R. A. S. Bassi, <b>Tianyu Lin</b>, Yu-Cheng Chou, Xinze Zhou, Fabian Isensee, Kang Wang, Qi Chen, Xiaoxi Chen, Yannick Kirchhoff, Maximilian Rouven Rokuss, Saikat Roy, Constantin Ulrich, Klaus Maier-Hein, Yucheng Tang, Kai Ding, Yang Yang, Alan Yuille, Zongwei Zhou<sup>&dagger;</sup>
-</font><br>
+</font>
 [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.03410)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/ScaleMAI?label=Code)](https://github.com/MrGiovanni/ScaleMAI) 
 </div>
 </div>
@@ -68,7 +68,7 @@ Wenxuan Li, Pedro R. A. S. Bassi, <b>Tianyu Lin</b>, Yu-Cheng Chou, Xinze Zhou, 
 ### A priority-guided contrastive network for delineating vascular layers in arterial ultrasound<br>
 <font size="2">
 Minhua Lu*, Tianyu Lin*, Weiyuan Lin<sup>&dagger;</sup>, Zhaohui Li, Zhifan Gao
-</font><br>
+</font>
 [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://www.sciencedirect.com/science/article/pii/S0957417425003173)
 </div>
 </div>
@@ -80,7 +80,7 @@ Minhua Lu*, Tianyu Lin*, Weiyuan Lin<sup>&dagger;</sup>, Zhaohui Li, Zhifan Gao
 <!-- [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.06692)  [![GitHub Repo stars](https://img.shields.io/github/stars/PRIS-CV/PGP-SAM?label=Code)](https://github.com/PRIS-CV/PGP-SAM) <br> -->
 <font size="2">
 Ruiyue Chen, Xin Zhang<sup>&dagger;</sup>, <b>Tianyu Lin</b>, Sijin Yu
-</font><br>
+</font>
 </div>
 </div>
 
@@ -90,7 +90,7 @@ Ruiyue Chen, Xin Zhang<sup>&dagger;</sup>, <b>Tianyu Lin</b>, Sijin Yu
 <!-- [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)  -->
 <font size="2">
 Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&dagger;</sup>, Zhanyu Ma
-</font><br>
+</font>
 [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.06692)  [![GitHub Repo stars](https://img.shields.io/github/stars/PRIS-CV/PGP-SAM?label=Code)](https://github.com/PRIS-CV/PGP-SAM) 
 </div>
 </div>
@@ -100,7 +100,7 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 ### Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse process
 <font size="2">
 <b>Tianyu Lin</b>, Zhiguang Chen, Zhonghao Yan, Weijiang Yu<sup>&dagger;</sup>, Fudan Zheng<sup>&dagger;</sup>
-</font><br>
+</font>
 [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62) [![Static Badge](https://img.shields.io/badge/_-Project_Page-green?style=flat-square&logo=github)](https://lin-tianyu.github.io/Stable-Diffusion-Seg/)  [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2406.18361)  [![GitHub Repo stars](https://img.shields.io/github/stars/lin-tianyu/Stable-Diffusion-Seg?label=Code)](https://github.com/lin-tianyu/Stable-Diffusion-Seg) 
 </div>
 </div>
