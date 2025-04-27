@@ -46,7 +46,7 @@ If you are interested in working with me, please feel free to email me at [tiany
 ### Text-driven Tumor Synthesis<br>
 <!-- [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)  -->
 <font size="2">
-Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <b>Tianyu Lin</b>, Pengfei Guo, Dong Yang, Can Zhao, Qilong Wu, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou
+Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <b>Tianyu Lin</b>, Pengfei Guo, Dong Yang, Can Zhao, Qilong Wu, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou<sup>&dagger;</sup>
 </font>
 [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.18589)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/TextoMorph?label=Code)](https://github.com/MrGiovanni/TextoMorph) 
 </div>
