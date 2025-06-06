@@ -41,10 +41,31 @@ If you are interested in working with me, please feel free to email me at [tiany
 # Publications & Preprints
 <sup>&dagger;</sup>Corresponding author, \* Equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CARE.png' alt="sym" width="175px"></div></div>
+<div class='paper-box-text' markdown="1">
+### Are Pixel-Wise Metrics Reliable for Sparse-View Computed Tomography Reconstruction?<br>
+<font size="2">
+<b>Tianyu Lin</b>, Xinran Li, Chuntung Zhuang, Qi Chen, Yuanhao Cai, Kai Ding, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
+</font>
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.02093)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/CARE?label=Code)](https://github.com/MrGiovanni/CARE) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PsyCrisisBench.png' alt="sym" width="175px"></div></div>
+<div class='paper-box-text' markdown="1">
+### Evaluating Large Language Models in Crisis Detection: A Real-World Benchmark from Psychological Support Hotlines<br>
+
+<font size="2">
+Guifeng Deng, Shuyin Rao, <b>Tianyu Lin</b>, Anlu Dai, Pan Wang, Junyi Xie, Haidong Song, Ke Zhao, Dongwu Xu, Zhengdong Cheng, Tao Li, Haiteng Jiang<sup>&dagger;</sup>
+</font>
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.01329) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TextoMorph.png' alt="sym" width="175px"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Text-driven Tumor Synthesis<br>
-<!-- [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)  -->
+
 <font size="2">
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <b>Tianyu Lin</b>, Pengfei Guo, Dong Yang, Can Zhao, Qilong Wu, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou<sup>&dagger;</sup>
 </font>
@@ -55,10 +76,10 @@ Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <b>Tianyu Lin</b>, Pengfei Guo, Dong Yan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ScaleMAI.jpg' alt="sym" width="175px"></div></div>
 <div class='paper-box-text' markdown="1">
 ### ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models<br>
-<!-- [![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62)  -->
+
 <font size="2">
 Wenxuan Li, Pedro R. A. S. Bassi, <b>Tianyu Lin</b>, Yu-Cheng Chou, Xinze Zhou, Fabian Isensee, Kang Wang, Qi Chen, Xiaoxi Chen, Yannick Kirchhoff, Maximilian Rouven Rokuss, Saikat Roy, Constantin Ulrich, Klaus Maier-Hein, Yucheng Tang, Kai Ding, Yang Yang, Alan Yuille, Zongwei Zhou<sup>&dagger;</sup>
-</font>
+</font>****
 [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.03410)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/ScaleMAI?label=Code)](https://github.com/MrGiovanni/ScaleMAI) 
 </div>
 </div>
@@ -101,7 +122,7 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 <font size="2">
 <b>Tianyu Lin</b>, Zhiguang Chen, Zhonghao Yan, Weijiang Yu<sup>&dagger;</sup>, Fudan Zheng<sup>&dagger;</sup>
 </font>
-[![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62) [![Static Badge](https://img.shields.io/badge/_-Project_Page-green?style=flat-square&logo=github)](https://lin-tianyu.github.io/Stable-Diffusion-Seg/)  [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2406.18361)  [![GitHub Repo stars](https://img.shields.io/github/stars/lin-tianyu/Stable-Diffusion-Seg?label=Code)](https://github.com/lin-tianyu/Stable-Diffusion-Seg) 
+[![Static Badge](https://img.shields.io/badge/_-Paper-red?style=flat-square&logo=googledocs)](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_62) [![Static Badge](https://img.shields.io/badge/_-Project-green?style=flat-square&logo=github)](https://lin-tianyu.github.io/Stable-Diffusion-Seg/)  [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2406.18361)  [![GitHub Repo stars](https://img.shields.io/github/stars/lin-tianyu/Stable-Diffusion-Seg?label=Code)](https://github.com/lin-tianyu/Stable-Diffusion-Seg) 
 </div>
 </div>
 
