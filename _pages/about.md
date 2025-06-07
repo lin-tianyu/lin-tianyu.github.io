@@ -129,7 +129,7 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 - `Sensors` An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Chen Y<sup>&dagger;</sup>, Han G<sup>&dagger;</sup>, **Lin T** et al.
 
 # Educations
-- *2024.09-2025.05 (Expected)*, Master of Science in Engineering, Biomedical Engineering, Johns Hopkins University.
+- *2024.09-2025.05*, Master of Science in Engineering, Biomedical Engineering, Johns Hopkins University.
 - *2020.09-2024.06*, Bachelor of Engineering, Biomedical Engineering, Sun Yat-sen University.
 
 # Internships
