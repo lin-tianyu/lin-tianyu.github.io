@@ -37,12 +37,23 @@ My research interest mainly includes medical image analysis and computer vision.
 
 
 # News
-- *2025.06*: Two papers have been accepted bt **MICCAI 2025**, arxivs coming soon!
+- *2025.06*: Two papers have been accepted bt **MICCAI 2025**!
 - *2025.01*: Two papers have been accepted by **ISBI 2025**. One paper has been accepted by **ESWA**.
 - *2024.06*: 🥳🎉 One paper has been accepted by **MICCAI 2024** (1st author)!
 
 # Publications & Preprints
 <sup>&dagger;</sup>Corresponding author, \* Equal contribution
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/LEAF.png' alt="sym" width="175px"></div></div>
+<div class='paper-box-text' markdown="1">
+### LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation<br>
+<font size="2">
+Qilin Huang, <b>Tianyu Lin</b>, Zhiguang Chen, and Fudan Zheng<sup>&dagger;</sup>
+</font>
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.18214) 
+</div>
+</div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/R-Super.png' alt="sym" width="175px"></div></div>
