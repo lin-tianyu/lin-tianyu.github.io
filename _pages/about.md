@@ -37,7 +37,7 @@ My research interest mainly includes medical image analysis and computer vision.
 
 
 # News
-- *2025.06*: Two papers have been accepted bt **MICCAI 2025**!
+- *2025.06*: Two papers have been accepted by **MICCAI 2025**!
 - *2025.01*: Two papers have been accepted by **ISBI 2025**. One paper has been accepted by **ESWA**.
 - *2024.06*: 🥳🎉 One paper has been accepted by **MICCAI 2024** (1st author)!
 
@@ -51,7 +51,7 @@ My research interest mainly includes medical image analysis and computer vision.
 <font size="2">
 Qilin Huang, <b>Tianyu Lin</b>, Zhiguang Chen, and Fudan Zheng<sup>&dagger;</sup>
 </font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.18214) 
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.18214) [![Static Badge](https://img.shields.io/badge/_-Project-green?style=flat-square&logo=github)](https://leafseg.github.io/leaf/) [![GitHub Repo stars](https://img.shields.io/github/stars/Pearisli/LEAF?label=Code)](https://github.com/Pearisli/LEAF) 
 </div>
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
@@ -62,7 +62,7 @@ Qilin Huang, <b>Tianyu Lin</b>, Zhiguang Chen, and Fudan Zheng<sup>&dagger;</sup
 <font size="2">
 Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, <b>Tianyu Lin</b>, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
 </font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.05582) 
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.05582) [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/R-Super?label=Code)](https://github.com/MrGiovanni/R-Super) 
 </div>
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
@@ -73,7 +73,7 @@ Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, <b>Tianyu Lin</b>, S
 <font size="2">
 Wenxuan Li*, Xinze Zhou*, Qi Chen*, <b>Tianyu Lin</b>, Pedro R. A. S. Bassi, Szymon Plotka, Jaroslaw B. Cwikla, Xiaoxi Chen, Chen Ye, Zheren Zhu, Kai Ding, Heng Li, Kang Wang, Yang Yang, Yucheng Tang, Daguang Xu, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
 </font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01291) 
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01291) [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/PanTS?label=Code)](https://github.com/MrGiovanni/PanTS) 
 </div>
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
@@ -84,7 +84,7 @@ Wenxuan Li*, Xinze Zhou*, Qi Chen*, <b>Tianyu Lin</b>, Pedro R. A. S. Bassi, Szy
 <font size="2">
 <b>Tianyu Lin</b>, Jooyoung Ryu, Puvada Sreevarsha, Rahul Srinivasaragavan, Riya Satavlekar, Susan Kim, Nidhi Soley, Yujie Yan, Ishan Vatsaraj, Carl Harris, Aimon Rahman, Vishal Patel, Joseph Greenstein, Casey Taylor, Kemar E. Green<sup>&dagger;</sup>
 </font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://www.researchsquare.com/article/rs-6995265/v1) 
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://www.researchsquare.com/article/rs-6995265/v1) <!--TODO dataset link -->
 </div>
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
