@@ -84,7 +84,7 @@ Wenxuan Li*, Xinze Zhou*, Qi Chen*, <b>Tianyu Lin</b>, Pedro R. A. S. Bassi, Szy
 <font size="2">
 <b>Tianyu Lin</b>, Jooyoung Ryu, Puvada Sreevarsha, Rahul Srinivasaragavan, Riya Satavlekar, Susan Kim, Nidhi Soley, Yujie Yan, Ishan Vatsaraj, Carl Harris, Aimon Rahman, Vishal Patel, Joseph Greenstein, Casey Taylor, Kemar E. Green<sup>&dagger;</sup>
 </font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://www.researchsquare.com/article/rs-6995265/v1) <!--TODO dataset link -->
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://www.researchsquare.com/article/rs-6995265/v1) [![Static Badge](https://img.shields.io/badge/_-Dataset-blue?style=flat-square&logo=databricks)](https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1KON8NZ)
 </div>
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
