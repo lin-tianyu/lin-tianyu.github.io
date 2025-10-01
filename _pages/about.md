@@ -37,12 +37,47 @@ My research interest mainly includes medical image analysis and computer vision.
 
 
 # News
+- *2025.09*: Two papers have been accepted by **NeurIPS 2025**! Three abstracts have been selected as **RSNA 2025 Oral**!
 - *2025.06*: Two papers have been accepted by **MICCAI 2025**!
 - *2025.01*: Two papers have been accepted by **ISBI 2025**. One paper has been accepted by **ESWA**.
 - *2024.06*: 🥳🎉 One paper has been accepted by **MICCAI 2024** (1st author)!
 
 # Publications & Preprints
 <sup>&dagger;</sup>Corresponding author, \* Equal contribution
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/CARE.png' alt="sym" width="175px"></div></div>
+<div class='paper-box-text' markdown="1">
+### Are Pixel-Wise Metrics Reliable for Sparse-View Computed Tomography Reconstruction?<br>
+<font size="2">
+<b>Tianyu Lin</b>, Xinran Li, Chuntung Zhuang, Qi Chen, Yuanhao Cai, Kai Ding, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
+</font>
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.02093)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/CARE?label=Code)](https://github.com/MrGiovanni/CARE) 
+</div>
+</div>
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/PanTS.png' alt="sym" width="175px"></div></div>
+<div class='paper-box-text' markdown="1">
+### PanTS: The Pancreatic Tumor Segmentation Dataset<br>
+<font size="2">
+Wenxuan Li*, Xinze Zhou*, Qi Chen*, <b>Tianyu Lin</b>, Pedro R. A. S. Bassi, Szymon Plotka, Jaroslaw B. Cwikla, Xiaoxi Chen, Chen Ye, Zheren Zhu, Kai Ding, Heng Li, Kang Wang, Yang Yang, Yucheng Tang, Daguang Xu, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
+</font>
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01291) [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/PanTS?label=Code)](https://github.com/MrGiovanni/PanTS) 
+</div>
+</div>
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/R-Super.png' alt="sym" width="175px"></div></div>
+<div class='paper-box-text' markdown="1">
+### Learning Segmentation from Radiology Reports<br>
+<font size="2">
+Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, <b>Tianyu Lin</b>, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
+<p style="color: red;">Best Paper Award Runner-up (top 2 in 1,027 papers)</p>
+</font>
+[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.05582) [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/R-Super?label=Code)](https://github.com/MrGiovanni/R-Super) 
+</div>
+</div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/LEAF.png' alt="sym" width="175px"></div></div>
@@ -56,28 +91,6 @@ Qilin Huang, <b>Tianyu Lin</b>, Zhiguang Chen, and Fudan Zheng<sup>&dagger;</sup
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/R-Super.png' alt="sym" width="175px"></div></div>
-<div class='paper-box-text' markdown="1">
-### Learning Segmentation from Radiology Reports<br>
-<font size="2">
-Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, <b>Tianyu Lin</b>, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
-</font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.05582) [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/R-Super?label=Code)](https://github.com/MrGiovanni/R-Super) 
-</div>
-</div>
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PanTS.png' alt="sym" width="175px"></div></div>
-<div class='paper-box-text' markdown="1">
-### PanTS: The Pancreatic Tumor Segmentation Dataset<br>
-<font size="2">
-Wenxuan Li*, Xinze Zhou*, Qi Chen*, <b>Tianyu Lin</b>, Pedro R. A. S. Bassi, Szymon Plotka, Jaroslaw B. Cwikla, Xiaoxi Chen, Chen Ye, Zheren Zhu, Kai Ding, Heng Li, Kang Wang, Yang Yang, Yucheng Tang, Daguang Xu, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
-</font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01291) [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/PanTS?label=Code)](https://github.com/MrGiovanni/PanTS) 
-</div>
-</div>
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/EyePose.jpg' alt="sym" width="175px"></div></div>
 <div class='paper-box-text' markdown="1">
 ### EyePose: Pose-guided Saccadic Eye Movement Video Generation for Deep Learning-Based Neurologic Disease Phenotyping<br>
@@ -85,29 +98,6 @@ Wenxuan Li*, Xinze Zhou*, Qi Chen*, <b>Tianyu Lin</b>, Pedro R. A. S. Bassi, Szy
 <b>Tianyu Lin</b>, Jooyoung Ryu, Puvada Sreevarsha, Rahul Srinivasaragavan, Riya Satavlekar, Susan Kim, Nidhi Soley, Yujie Yan, Ishan Vatsaraj, Carl Harris, Aimon Rahman, Vishal Patel, Joseph Greenstein, Casey Taylor, Kemar E. Green<sup>&dagger;</sup>
 </font>
 [![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://www.researchsquare.com/article/rs-6995265/v1) [![Static Badge](https://img.shields.io/badge/_-Dataset-blue?style=flat-square&logo=databricks)](https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1KON8NZ)
-</div>
-</div>
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CARE.png' alt="sym" width="175px"></div></div>
-<div class='paper-box-text' markdown="1">
-### Are Pixel-Wise Metrics Reliable for Sparse-View Computed Tomography Reconstruction?<br>
-<font size="2">
-<b>Tianyu Lin</b>, Xinran Li, Chuntung Zhuang, Qi Chen, Yuanhao Cai, Kai Ding, Alan L. Yuille, Zongwei Zhou<sup>&dagger;</sup>
-</font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.02093)  [![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/CARE?label=Code)](https://github.com/MrGiovanni/CARE) 
-</div>
-</div>
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PsyCrisisBench.png' alt="sym" width="175px"></div></div>
-<div class='paper-box-text' markdown="1">
-### Evaluating Large Language Models in Crisis Detection: A Real-World Benchmark from Psychological Support Hotlines<br>
-
-<font size="2">
-Guifeng Deng, Shuyin Rao, <b>Tianyu Lin</b>, Anlu Dai, Pan Wang, Junyi Xie, Haidong Song, Ke Zhao, Dongwu Xu, Zhengdong Cheng, Tao Li, Haiteng Jiang<sup>&dagger;</sup>
-</font>
-[![Static Badge](https://img.shields.io/badge/_-arxiv-gray?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.01329) 
 </div>
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
