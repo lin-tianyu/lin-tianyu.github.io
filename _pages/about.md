@@ -91,7 +91,7 @@ Qilin Huang, <b>Tianyu Lin</b>, Zhiguang Chen, and Fudan Zheng<sup>&dagger;</sup
 </div>
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/EyePose.jpg' alt="sym" width="175px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ANA 2025</div><img src='images/EyePose.jpg' alt="sym" width="175px"></div></div>
 <div class='paper-box-text' markdown="1">
 ### EyePose: Pose-guided Saccadic Eye Movement Video Generation for Deep Learning-Based Neurologic Disease Phenotyping<br>
 <font size="2">
