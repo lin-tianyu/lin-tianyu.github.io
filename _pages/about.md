@@ -46,7 +46,7 @@ My research interest mainly includes medical image analysis and computer vision.
 <sup>&dagger;</sup>Corresponding author, \* Equal contribution
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/CARE.png' alt="sym" width="175px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025, RSNA 2025 Oral</div><img src='images/CARE.png' alt="sym" width="175px"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Are Pixel-Wise Metrics Reliable for Sparse-View Computed Tomography Reconstruction?<br>
 <font size="2">
