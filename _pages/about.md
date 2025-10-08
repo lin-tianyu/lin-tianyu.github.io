@@ -185,7 +185,11 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 - *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
 - *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
 
+# Invited Talks
+- *2025.11*, Completeness Aware Reconstruction Enhancement, JHU's CCVL lab internal talk
+
 # Honors and Awards
+- *2025.09*, Best Paper Award Runner-up, MICCAI 2025.
 - *2024.06*, Outstanding Undergraduate Thesis Award, School of Biomedical Engineering, Sun Yat-sen University.
 - *2023.11*, Third-class scholarship for outstanding students, Sun Yat-sen University.
 - *2022.12*, Second-class scholarship for outstanding students, Sun Yat-sen University.
