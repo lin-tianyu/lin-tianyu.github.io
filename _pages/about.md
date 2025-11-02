@@ -24,7 +24,7 @@ redirect_from:
 
 Hi! I am Tianyu Lin.👋 
 <!-- I am a research assistant at the [Computational Cognitive Vision Lab (CCVL)](https://ccvl.jhu.edu/) at Johns Hopkins University, where I am fortunate to work with Bloomberg Distinguished Professor [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) and Dr. [Zongwei Zhou](https://www.zongweiz.com/). -->
-I am currently a research intern at [UII America, Inc.](https://www.uii-ai.com/), working with Dr. [Shanhui Sun](https://sites.google.com/site/shanhuisun), and a research assistant at [Massachusetts General Hospital](https://www.massgeneral.org/), Harvard Medical School, under the supervision of Professor [Xiang Li](https://researchers.mgh.harvard.edu/profile/15451263/xiangli-shaun.github.io). Previously, I was a research assistant in the [Computational Cognition, Vision, and Learning (CCVL)](https://ccvl.jhu.edu/) at Johns Hopkins University, where I was fortunate to work with Bloomberg Distinguished Professor [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) and Dr. [Zongwei Zhou](https://www.zongweiz.com/).
+I am currently a research assistant at [Massachusetts General Hospital](https://www.massgeneral.org/), Harvard Medical School, under the supervision of Professor [Xiang Li](https://researchers.mgh.harvard.edu/profile/15451263/xiangli-shaun.github.io), and a research intern at [UII America, Inc.](https://www.uii-ai.com/), working with Dr. [Shanhui Sun](https://sites.google.com/site/shanhuisun). Previously, I was a research assistant in the [Computational Cognition, Vision, and Learning (CCVL)](https://ccvl.jhu.edu/) at Johns Hopkins University, where I was fortunate to work with Bloomberg Distinguished Professor [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) and Dr. [Zongwei Zhou](https://www.zongweiz.com/).
 
 I earned my Master’s degree in Biomedical Engineering from the Department of Biomedical Engineering at [Johns Hopkins University](https://www.jhu.edu/) in May 2025, and my Bachelor’s degree from the School of Biomedical Engineering at [Sun Yat-sen University](https://www.sysu.edu.cn/) in June 2024.
 
@@ -178,8 +178,8 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 - *2020.09-2024.06*, Bachelor of Engineering, Biomedical Engineering, Sun Yat-sen University.
 
 # Internships
-- *2025.07-Now*, UII America Inc., <a href="https://www.uii-ai.com/"><img src="../images/UII.jpeg" width="70" ></a>, Boston, USA.
 - *2025.07-Now*, Harvard Medical School and Massachusetts General Hospital, <a href="https://www.massgeneral.org/"><img src="../images/harvard_medical_school_massachusetts_general_hospital_logo.jpeg" width="25" ><img src="../images/MGH.png" width="150" ></a>, Boston, USA.
+- *2025.07-2025.11*, UII America Inc., <a href="https://www.uii-ai.com/"><img src="../images/UII.jpeg" width="70" ></a>, Boston, USA.
 - *2024.09-2025.07*, Computational Cognition, Vision, and Learning Research Group, <a href="https://ccvl.jhu.edu/"><img src="../images/ccvl.png" width="50" ></a>, Baltimore, USA.
 - *2023.07-2023.09*, Medical Imaging Center, <a href="https://www.nmed.org.cn/"><img src="../images/NMed.png"></a>, Shenzhen, China.
 - *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
