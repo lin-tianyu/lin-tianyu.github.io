@@ -186,7 +186,7 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 - *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
 
 # Invited Talks
-- *2025.11*, Completeness Aware Reconstruction Enhancement, JHU's CCVL lab internal talk
+- *2025.11*, **Are Pixel-wise Metrics Reliable for CT Reconstruction?**, JHU's CCVL lab internal talk
 
 # Honors and Awards
 - *2025.09*, Best Paper Award Runner-up, MICCAI 2025.
