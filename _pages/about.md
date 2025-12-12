@@ -36,13 +36,13 @@ My research interest mainly includes medical image analysis and computer vision.
 
 
 
-# News
+# News <a id="news"></a>
 - *2025.09*: Two papers have been accepted by **NeurIPS 2025**! Three abstracts have been selected as **RSNA 2025 Oral**!
 - *2025.06*: Two papers have been accepted by **MICCAI 2025**!
 - *2025.01*: Two papers have been accepted by **ISBI 2025**. One paper has been accepted by **ESWA**.
 - *2024.06*: 🥳🎉 One paper has been accepted by **MICCAI 2024** (1st author)!
 
-# Publications & Preprints
+# Publications & Preprints <a id="publications"></a>
 <sup>&dagger;</sup>Corresponding author, \* Equal contribution
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
 <!-- this is a divider =--><!-- this is a divider =--><!-- this is a divider =-->
@@ -173,11 +173,11 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 
 - `Sensors` An Attention-Based Co-Segmentation Semi-Supervised Method for Nasopharyngeal Carcinoma Segmentation. Chen Y<sup>&dagger;</sup>, Han G<sup>&dagger;</sup>, **Lin T** et al.
 
-# Educations
+# Educations <a id="educations"></a>
 - *2024.09-2025.05*, Master of Science in Engineering, Biomedical Engineering, Johns Hopkins University.
 - *2020.09-2024.06*, Bachelor of Engineering, Biomedical Engineering, Sun Yat-sen University.
 
-# Internships
+# Internships <a id="internships"></a>
 - *2025.07-Now*, Harvard Medical School and Massachusetts General Hospital, <a href="https://www.massgeneral.org/"><img src="../images/harvard_medical_school_massachusetts_general_hospital_logo.jpeg" width="25" ><img src="../images/MGH.png" width="150" ></a>, Boston, USA.
 - *2025.07-2025.11*, UII America Inc., <a href="https://www.uii-ai.com/"><img src="../images/UII.jpeg" width="70" ></a>, Boston, USA.
 - *2024.09-2025.07*, Computational Cognition, Vision, and Learning Research Group, <a href="https://ccvl.jhu.edu/"><img src="../images/ccvl.png" width="50" ></a>, Baltimore, USA.
@@ -185,10 +185,10 @@ Zhonghao Yan, Zijin Yin, <b>Tianyu Lin</b>, Xiangzhu Zeng, Kongming Liang<sup>&d
 - *2022.07-2024.06*, National Supercomputer Center in Guangzhou, <a href="http://www.nscc-gz.cn/"><img src="../images/SYSU-NSCC.png" width="220" ></a>, Guangzhou, China.
 - *2021.01-2024.06*, Health Informatics Computing Laboratory, <a href="https://bme.sysu.edu.cn/"><img src="../images/SYSU-BME.png" width="150" ></a>, Shenzhen, China.
 
-# Invited Talks
+# Invited Talks <a id="invited-talks"></a>
 - *2025.11*, **Are Pixel-wise Metrics Reliable for CT Reconstruction?**, JHU's CCVL lab internal talk
 
-# Honors and Awards
+# Honors and Awards <a id="honors-and-awards"></a>
 - *2025.09*, Best Paper Award Runner-up, MICCAI 2025.
 - *2024.06*, Outstanding Undergraduate Thesis Award, School of Biomedical Engineering, Sun Yat-sen University.
 - *2023.11*, Third-class scholarship for outstanding students, Sun Yat-sen University.
