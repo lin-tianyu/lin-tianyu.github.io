@@ -1,0 +1,39 @@
+type = "card"
+title = "Experience"
+description = "My Research experience, including internships and research assistantships."
+
+[[items]]
+title = "Massachusetts General Hospital"
+subtitle = "Research Assistant"
+date = "2025.07 - Present"
+content = "Supervised by Professor Xiang Li and Professor Quanzheng Li"
+
+[[items]]
+title = "UII America, Inc."
+subtitle = "Research Intern"
+date = "2025.07 - 2025.11"
+content = "Supervised by Dr. Shanhui Sun"
+
+[[items]]
+title = "Computational Cognition, Vision, and Learning Lab (CCVL)"
+subtitle = "Research Assistant, Johns Hopkins University"
+date = "2024.09 - 2025.07"
+content = "Supervised by Professor Alan L. Yuille and Professor Zongwei Zhou"
+
+[[items]]
+title = "National Innovation Center for High Performance Medical Devices"
+subtitle = "Research Intern"
+date = "2023.07 - 2023.09"
+content = ""
+
+[[items]]
+title = "National Supercomputer Center in Guangzhou"
+subtitle = "Research Assistant, Sun Yat-sen University"
+date = "2022.07 - 2024.06"
+content = ""
+
+[[items]]
+title = "Health Informatics Computing Lab"
+subtitle = "Research Assistant, Sun Yat-sen University"
+date = "2021.01 - 2024.06"
+content = "Supervised by Professor Zhifan Gao and Professor Heye Zhang"

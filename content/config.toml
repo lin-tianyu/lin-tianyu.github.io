@@ -44,6 +44,12 @@ type = "page"
 target = "publications"
 href = "/publications"
 
+[[navigation]]
+title = "Experience"
+type = "page"
+target = "experience"
+href = "/experience"
+
 # [[navigation]]
 # title = "Teaching"
 # type = "page"
@@ -68,8 +74,3 @@ href = "/invited-talks"
 # target = "services"
 # href = "/services"
 
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
