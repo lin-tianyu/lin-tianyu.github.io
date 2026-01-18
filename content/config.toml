@@ -1,0 +1,75 @@
+[site]
+title = "Tianyu Lin 林天予"
+description = "Research Assistant @ Massachusetts General Hospital"
+favicon = "/favicon.jpg"
+last_updated = "January 16, 2026"
+
+[author]
+name = "Tianyu Lin"
+title = "Research Assistant"
+institution = "Massachusetts General Hospital"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "tianyulin67@gmail.com"
+location = "Boston, MA"
+location_url = "https://maps.google.com"
+location_details = [
+  "Room xxx, xxx Building,",
+  "xxx Avenue, City, Country"
+]
+google_scholar = "https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl=en"
+orcid = "https://orcid.org/0000-0002-4202-4970"
+github = "https://github.com/lin-tianyu"
+linkedin = "https://www.linkedin.com/in/lin-tianyu/"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+# [[navigation]]
+# title = "Teaching"
+# type = "page"
+# target = "teaching"
+# href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Invited Talks"
+type = "page"
+target = "invited-talks"
+href = "/invited-talks"
+
+# [[navigation]]
+# title = "Services"
+# type = "page"
+# target = "services"
+# href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

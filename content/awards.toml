@@ -1,0 +1,42 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "MICCAI Best Paper Award Runner-up"
+subtitle = "MICCAI 2025"
+date = "2025.09"
+content = "(Top 2 in 1,027 papers)"
+
+[[items]]
+title = "Outstanding Undergraduate Thesis Award"
+subtitle = "School of Biomedical Engineering, Sun Yat-sen University"
+date = "2024.06"
+
+[[items]]
+title = "Third-class scholarship for outstanding students"
+subtitle = "Sun Yat-sen University"
+date = "2023.11"
+
+[[items]]
+title = "Second-class scholarship for outstanding students"
+subtitle = "Sun Yat-sen University"
+date = "2022.12"
+
+[[items]]
+title = "The Mathematical Modeling Competition of Guangdong-Hong Kong-Marco Greater Bay Area"
+subtitle = "Third Prize"
+date = "2022.12"
+
+[[items]]
+title = "National Biomedical Engineering Innovation Design Competition for College Students"
+subtitle = "Third Prize"
+date = "2022.08"
+
+[[items]]
+title = "Second-class scholarship for outstanding students"
+subtitle = "Sun Yat-sen University"
+date = "2021.11"
+
+
+

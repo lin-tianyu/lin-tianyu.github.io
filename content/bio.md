@@ -1,0 +1,5 @@
+I am currently a research assistant at [Massachusetts General Hospital](https://www.massgeneral.org/), working with Prof. [Xiang Li](https://researchers.mgh.harvard.edu/profile/15451263/xiangli-shaun.github.io). Previously, I was a research intern at [UII America, Inc.](https://www.uii-ai.com/), working with Dr. [Shanhui Sun](https://sites.google.com/site/shanhuisun). During my M.S. study, I was part of [CCVL](https://ccvl.jhu.edu/) in Johns Hopkins University, where I was fortunate to work with Bloomberg Distinguished Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) and Prof. [Zongwei Zhou](https://www.zongweiz.com/).
+
+I earned my Master’s degree in Biomedical Engineering at [Johns Hopkins University](https://www.jhu.edu/) in 2025, and my Bachelor’s degree in Biomedical Engineering at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
+
+I am all into building reliable medical vision intelligence systems. If you are interested in working with me, please feel free to email me :)

@@ -1,0 +1,9 @@
+type = "card"
+title = "Invited Talks"
+description = "Invited talks I have given."
+
+[[items]]
+title = "Are Pixel-wise Metrics Reliable for CT Reconstruction?"
+subtitle = "JHU's CCVL lab internal talk"
+date = "2025.11"
+content = "Invited talk at JHU's CCVL lab about the NeurIPS 2025 paper."
