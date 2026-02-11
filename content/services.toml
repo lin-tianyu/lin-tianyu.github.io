@@ -7,3 +7,9 @@ title = "Reviewer"
 subtitle = "MICCAI 2026"
 date = "2026"
 # content = "Reviewed papers for MICCAI 2026."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Transactions on Medical Imaging"
+date = "2026"
+# content = "Reviewed papers for Transactions on Medical Imaging."
