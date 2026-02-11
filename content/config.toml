@@ -68,9 +68,9 @@ type = "page"
 target = "invited-talks"
 href = "/invited-talks"
 
-# [[navigation]]
-# title = "Services"
-# type = "page"
-# target = "services"
-# href = "/services"
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
 

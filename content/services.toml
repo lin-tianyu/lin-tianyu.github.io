@@ -4,6 +4,6 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Reviewer"
-subtitle = "Transactions on Medical Imaging"
+subtitle = "MICCAI 2026"
 date = "2026"
-# content = "Reviewed papers for..."
+# content = "Reviewed papers for MICCAI 2026."
