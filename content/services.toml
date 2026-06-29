@@ -13,3 +13,9 @@ title = "Reviewer"
 subtitle = "Transactions on Medical Imaging"
 date = "2026"
 # content = "Reviewed papers for Transactions on Medical Imaging."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Pattern Recognition"
+date = "2026"
+# content = "Reviewed papers for Pattern Recognition."
