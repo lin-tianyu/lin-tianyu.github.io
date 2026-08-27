@@ -1,12 +1,12 @@
 [site]
 title = "Tianyu Lin 林天予"
-description = "Incoming CS PhD Student @ UIUC & Harvard MGH"
+description = "CS PhD Student @ UIUC & Harvard MGH"
 favicon = "/favicon.jpg"
 last_updated = "January 16, 2026"
 
 [author]
 name = "Tianyu Lin"
-title = "Incoming CS PhD Student"
+title = "CS PhD Student"
 institution = "UIUC & Harvard MGH"
 avatar = "/bio.jpg"
 
