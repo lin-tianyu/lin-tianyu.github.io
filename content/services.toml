@@ -4,6 +4,18 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Reviewer"
+subtitle = "AAAI 2027"
+date = "2026"
+# content = "Reviewed papers for AAAI 2027."
+
+[[items]]
+title = "Reviewer"
+subtitle = "NeurIPS 2026"
+date = "2026"
+# content = "Reviewed papers for NeurIPS 2026."
+
+[[items]]
+title = "Reviewer"
 subtitle = "MICCAI 2026"
 date = "2026"
 # content = "Reviewed papers for MICCAI 2026."
