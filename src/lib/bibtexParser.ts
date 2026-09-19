@@ -92,9 +92,11 @@ export function parseBibTeX(bibtexContent: string): Publication[] {
       projectUrl: tags.project || tags.projecturl,
       arxivId: tags.arxiv || tags.eprint,
       arxivUrl: tags.arxivurl,
+      conferenceAbstractUrl: tags.conferenceabstract,
+      conferenceAbstractLabel: tags.conferenceabstractlabel,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'paper', 'project', 'projecturl', 'arxiv', 'arxivurl', 'eprint']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'paper', 'project', 'projecturl', 'arxiv', 'arxivurl', 'conferenceabstract', 'conferenceabstractlabel']),
     };
 
     // Clean up undefined fields

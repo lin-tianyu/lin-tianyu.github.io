@@ -134,6 +134,23 @@ export default function SelectedPublications({ publications, title = 'Selected P
                                             arXiv
                                         </a>
                                     )}
+                                    {pub.conferenceAbstractUrl && (
+                                        <a
+                                            href={pub.conferenceAbstractUrl}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 border border-neutral-200 dark:border-neutral-700 hover:bg-accent hover:text-white transition-colors"
+                                        >
+                                            <ExternalLink className="h-3 w-3 mr-1.5" />
+                                            {pub.conferenceAbstractLabel || 'Conference Abstract'}
+                                        </a>
+                                    )}
+                                    {!pub.conferenceAbstractUrl && pub.conferenceAbstractLabel && (
+                                        <span className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 border border-neutral-200 dark:border-neutral-700">
+                                            <DocumentTextIcon className="h-3 w-3 mr-1.5" />
+                                            {pub.conferenceAbstractLabel}
+                                        </span>
+                                    )}
                                     {pub.abstract && (
                                         <button
                                             onClick={() => setExpandedAbstractId(expandedAbstractId === pub.id ? null : pub.id)}

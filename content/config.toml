@@ -2,7 +2,7 @@
 title = "Tianyu Lin 林天予"
 description = "CS PhD Student @ UIUC & Harvard MGH"
 favicon = "/favicon.jpg"
-last_updated = "January 16, 2026"
+last_updated = "September 19, 2026"
 
 [author]
 name = "Tianyu Lin"
@@ -14,11 +14,13 @@ avatar = "/bio.jpg"
 # Contact information (leave blank or delete to hide)
 
 email = "tianyulin67@gmail.com"
-location = "Boston, MA"
-location_url = "https://maps.google.com"
+location = "Urbana, IL"
+location_url = "https://www.google.com/maps/search/?api=1&query=Thomas+M.+Siebel+Center+for+Computer+Science+201+North+Goodwin+Avenue+Urbana+IL+61801"
 location_details = [
-  "Room xxx, xxx Building,",
-  "xxx Avenue, City, Country"
+  "Thomas M. Siebel Center for Computer Science",
+  "University of Illinois Urbana-Champaign",
+  "201 North Goodwin Avenue",
+  "Urbana, IL 61801-2302, USA"
 ]
 google_scholar = "https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl=en"
 orcid = "https://orcid.org/0000-0002-4202-4970"

@@ -284,6 +284,23 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 arXiv
                                             </a>
                                         )}
+                                        {pub.conferenceAbstractUrl && (
+                                            <a
+                                                href={pub.conferenceAbstractUrl}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                                            >
+                                                <ExternalLink className="h-3 w-3 mr-1.5" />
+                                                {pub.conferenceAbstractLabel || 'Conference Abstract'}
+                                            </a>
+                                        )}
+                                        {!pub.conferenceAbstractUrl && pub.conferenceAbstractLabel && (
+                                            <span className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300">
+                                                <DocumentTextIcon className="h-3 w-3 mr-1.5" />
+                                                {pub.conferenceAbstractLabel}
+                                            </span>
+                                        )}
                                         {pub.abstract && (
                                             <button
                                                 onClick={() => setExpandedAbstractId(expandedAbstractId === pub.id ? null : pub.id)}

@@ -48,6 +48,8 @@ export interface Publication {
   paper?: string;
   projectUrl?: string;
   arxivUrl?: string;
+  conferenceAbstractUrl?: string;
+  conferenceAbstractLabel?: string;
 }
 
 export type PublicationType =

@@ -3,37 +3,49 @@ title = "Experience"
 description = "My Research experience, including internships and research assistantships."
 
 [[items]]
-title = "Massachusetts General Hospital"
+title = "Harvard Medical School and Massachusetts General Hospital"
 subtitle = "Research Assistant"
 date = "2025.07 - Present"
 content = "Supervised by Professor Xiang Li and Professor Quanzheng Li"
+logos = [
+  { src = "/logos/harvard-medical-school-color.png", alt = "Harvard Medical School", href = "https://hms.harvard.edu/", width = 200, height = 56 },
+  { src = "/logos/mgh.png", alt = "Massachusetts General Hospital", href = "https://www.massgeneral.org/", width = 220, height = 27 },
+]
 
 [[items]]
 title = "UII America, Inc."
 subtitle = "Research Intern"
 date = "2025.07 - 2025.11"
 content = "Supervised by Dr. Shanhui Sun"
+logos = [
+  { src = "/logos/uii.jpeg", alt = "United Imaging Intelligence", href = "https://www.uii-ai.com/", width = 160, height = 58 },
+]
 
 [[items]]
 title = "Computational Cognition, Vision, and Learning Lab (CCVL)"
 subtitle = "Research Assistant, Johns Hopkins University"
 date = "2024.09 - 2025.07"
 content = "Supervised by Professor Alan L. Yuille and Professor Zongwei Zhou"
+logos = [
+  { src = "/logos/johns-hopkins.svg", alt = "Johns Hopkins University", href = "https://www.jhu.edu/", width = 220, height = 51 },
+  { src = "/logos/ccvl.png", alt = "CCVL", href = "https://ccvl.jhu.edu/", width = 85, height = 41 },
+]
 
-[[items]]
-title = "National Innovation Center for Advanced Medical Devices"
-subtitle = "Research Intern"
-date = "2023.07 - 2023.09"
-content = ""
-
-[[items]]
-title = "School of Computer Science"
-subtitle = "Research Assistant, Sun Yat-sen University"
-date = "2022.07 - 2024.06"
-content = ""
-
-[[items]]
-title = "Health Informatics Computing Lab"
-subtitle = "Research Assistant, Sun Yat-sen University"
-date = "2021.01 - 2024.06"
-content = "Supervised by Professor Zhifan Gao and Professor Heye Zhang"
+# Earlier experiences are retained below; uncomment to display them again.
+# [[items]]
+# title = "National Innovation Center for Advanced Medical Devices"
+# subtitle = "Research Intern"
+# date = "2023.07 - 2023.09"
+# content = ""
+#
+# [[items]]
+# title = "School of Computer Science"
+# subtitle = "Research Assistant, Sun Yat-sen University"
+# date = "2022.07 - 2024.06"
+# content = ""
+#
+# [[items]]
+# title = "Health Informatics Computing Lab"
+# subtitle = "Research Assistant, Sun Yat-sen University"
+# date = "2021.01 - 2024.06"
+# content = "Supervised by Professor Zhifan Gao and Professor Heye Zhang"
