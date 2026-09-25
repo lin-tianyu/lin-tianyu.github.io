@@ -2,6 +2,6 @@ I am a CS PhD student at [University of Illinois Urbana-Champaign (UIUC)](https:
 
 I earned my Master’s degree at [Johns Hopkins University](https://www.jhu.edu/) and my Bachelor’s degree at [Sun Yat-sen University](https://www.sysu.edu.cn/), both in Biomedical Engineering.
 
-I am all into building reliable medical vision analysis systems. If you are interested in working with me, please feel free to email me :)
+I am all into building reliable medical vision intelligence systems. If you are interested in working with me, please feel free to email me :)
 
-> I am actively seeking a Summer 2027 internship.
+> I am actively seeking Summer 2027 internship opportunities.
